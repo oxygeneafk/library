@@ -1,0 +1,17 @@
+C:\Users\erena\source\repos\LibraryProjectWithLoginScreen\LibrarySystem\bin\Debug\LibrarySystem.exe.config
+C:\Users\erena\source\repos\LibraryProjectWithLoginScreen\LibrarySystem\bin\Debug\LibrarySystem.exe
+C:\Users\erena\source\repos\LibraryProjectWithLoginScreen\LibrarySystem\bin\Debug\LibrarySystem.pdb
+C:\Users\erena\source\repos\LibraryProjectWithLoginScreen\LibrarySystem\obj\Debug\LibrarySystem.csproj.AssemblyReference.cache
+C:\Users\erena\source\repos\LibraryProjectWithLoginScreen\LibrarySystem\obj\Debug\LibrarySystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\erena\source\repos\LibraryProjectWithLoginScreen\LibrarySystem\obj\Debug\LibrarySystem.Properties.Resources.resources
+C:\Users\erena\source\repos\LibraryProjectWithLoginScreen\LibrarySystem\obj\Debug\LibrarySystem.csproj.GenerateResource.cache
+C:\Users\erena\source\repos\LibraryProjectWithLoginScreen\LibrarySystem\obj\Debug\LibrarySystem.csproj.CoreCompileInputs.cache
+C:\Users\erena\source\repos\LibraryProjectWithLoginScreen\LibrarySystem\obj\Debug\LibrarySystem.exe
+C:\Users\erena\source\repos\LibraryProjectWithLoginScreen\LibrarySystem\obj\Debug\LibrarySystem.pdb
+C:\Users\erena\source\repos\LibraryProjectWithLoginScreen\LibrarySystem\bin\Debug\EntityFramework.dll
+C:\Users\erena\source\repos\LibraryProjectWithLoginScreen\LibrarySystem\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\erena\source\repos\LibraryProjectWithLoginScreen\LibrarySystem\bin\Debug\EntityFramework.xml
+C:\Users\erena\source\repos\LibraryProjectWithLoginScreen\LibrarySystem\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\erena\source\repos\LibraryProjectWithLoginScreen\LibrarySystem\obj\Debug\LibrarySystem.csproj.CopyComplete
+C:\Users\erena\source\repos\LibraryProjectWithLoginScreen\LibrarySystem\obj\Debug\LibrarySystem.LibraryProject.resources
+C:\Users\erena\source\repos\LibraryProjectWithLoginScreen\LibrarySystem\obj\Debug\LibrarySystem.LoginScreen.resources
